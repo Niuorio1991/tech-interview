@@ -1,12 +1,9 @@
 package ar.com.inviu;
 
-import java.util.Arrays;
-
 class StockExercise {
     /*
-
     Dado un array de precios donde prices[i] es el valor de una accion en el dia i
-    Tu objetivo es obtener la mayor ganancia posible con la compra de acciones y la venta de las mismas en un dia distinto (1 sola operacion de cada tipo)
+    Tu objetivo es obtener la mayor ganancia posible mediante la compra y posterior venta de las mismas en un dia distinto (1 sola operacion de cada tipo)
     Retornar la ganancia maxima posible de esta transaccion. Si no hay ganancia posible, retornar 0.
 
     Ejemplo 1:
@@ -25,17 +22,8 @@ class StockExercise {
     - 0 <= prices[i] <= 10^4 (10.000)
      */
     public static int maxProfit(int[] prices) {
-
         return 0;
     }
-
-
-
-
-
-
-
-
 
     public static void main(String[] args)
     {
